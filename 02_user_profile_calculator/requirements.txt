@@ -1,0 +1,5 @@
+# Modul 02 - User Profile & Health/Study Calculator
+# Tidak ada dependensi eksternal.
+# Program ini hanya menggunakan fitur bawaan Python (built-in):
+# input(), print(), int(), float(), str()
+# Membutuhkan Python versi 3.6 ke atas (untuk mendukung f-string).
