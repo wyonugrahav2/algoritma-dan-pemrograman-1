@@ -2,6 +2,8 @@
 
 Selamat datang di repositori dokumentasi dan proyek praktikum untuk mata kuliah **Algoritma dan Pemrograman 1** (Informatika). 
 
+ini adalah tempat dimana saya mendalami kembali materi dari semester 1, untuk membaca ulang dan mempresentasikan ulang apa yang saya pelajari waktu lalu itu
+
 Repositori ini disusun secara modular yang mencakup setiap materi pertemuan kuliah, di mana setiap modul diimplementasikan ke dalam pengembangan proyek **My CLI Dashboard** berbasis Python.
 
 ---
