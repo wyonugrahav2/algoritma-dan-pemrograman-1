@@ -1,0 +1,14 @@
+[
+  {
+    "account_number": "1001",
+    "pin": "1234",
+    "name": "Wyo Nugraha",
+    "balance": 1500000
+  },
+  {
+    "account_number": "1002",
+    "pin": "5678",
+    "name": "Nasabah Demo",
+    "balance": 1500000
+  }
+]
