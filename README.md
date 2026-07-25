@@ -14,7 +14,7 @@ Repositori ini disusun secara modular yang mencakup setiap materi pertemuan kuli
 | :---: | :--- | :--- | :---: |
 | **M1** | Pengenalan Python & Environment Setup | [`01_my_cli_dashboard`](./01_my_cli_dashboard) | ✅ Selesai |
 | **2** | Variabel, Tipe Data, Input & Output | [`02_user_profile_calculator`](./02_user_profile_calculator) | ✅ Selesai |
-| **M3** | Percabangan, Pengulangan & Pemrosesan Data (JSON) | [`03_simple_banking_system`](./03_simple_banking_system) | 🔄 In Progress |
+| **M3** | Percabangan, Pengulangan & Pemrosesan Data (JSON) | [`03_simple_banking_system`](./03_simple_banking_system) | ✅ Selesai |
 
 ---
 
