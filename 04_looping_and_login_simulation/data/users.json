@@ -1,0 +1,9 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "password": "python",
+      "is_locked": false
+    }
+  ]
+}
