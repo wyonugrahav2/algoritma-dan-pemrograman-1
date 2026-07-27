@@ -1,0 +1,16 @@
+{
+  "presets": [
+    {
+      "id": "matrix_3x3_identity",
+      "name": "Identity Matrix 3x3",
+      "rows": 3,
+      "cols": 3
+    },
+    {
+      "id": "matrix_5x5_default",
+      "name": "Default Grid 5x5",
+      "rows": 5,
+      "cols": 5
+    }
+  ]
+}
