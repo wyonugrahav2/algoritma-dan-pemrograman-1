@@ -16,7 +16,7 @@ Repositori ini disusun secara modular yang mencakup setiap materi pertemuan kuli
 | **M2** | Variabel, Tipe Data, Input & Output | [`02_user_profile_calculator`](./02_user_profile_calculator) | ✅ Selesai |
 | **M3** | Percabangan, Pengulangan & Pemrosesan Data (JSON) | [`03_simple_banking_system`](./03_simple_banking_system) | ✅ Selesai |
 | **M4** | Struktur Kontrol Perulangan (For & While Loop) | [`04_looping_and_login_simulation`](./04_looping_and_login_simulation) | ✅ Selesai |
-
+| **M5** | Struktur Kontrol Perulangan Bersarang (Nested Loop) | [`05_nested_loop_and_matrix_simulation`](./05_nested_loop_and_matrix_simulation) | ⏳ In Progress |
 ---
 
 ## 🛠️ Teknologi & Tools
