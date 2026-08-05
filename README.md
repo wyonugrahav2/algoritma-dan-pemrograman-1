@@ -10,15 +10,16 @@ Repositori ini disusun secara modular yang mencakup setiap materi pertemuan kuli
 
 ## 📂 Struktur Repositori & Progress Pertemuan
 
-| Pertemuan | Topik Materi                                                | Nama Modul / Folder                                                              |   Status   |
-| :-------: | :---------------------------------------------------------- | :------------------------------------------------------------------------------- | :--------: |
-|  **M1**   | Pengenalan Python & Environment Setup                       | [`01_my_cli_dashboard`](./01_my_cli_dashboard)                                   | ✅ Selesai |
-|  **M2**   | Variabel, Tipe Data, Input & Output                         | [`02_user_profile_calculator`](./02_user_profile_calculator)                     | ✅ Selesai |
-|  **M3**   | Percabangan, Pengulangan & Pemrosesan Data (JSON)           | [`03_simple_banking_system`](./03_simple_banking_system)                         | ✅ Selesai |
-|  **M4**   | Struktur Kontrol Perulangan (For & While Loop)              | [`04_looping_and_login_simulation`](./04_looping_and_login_simulation)           | ✅ Selesai |
-|  **M5**   | Struktur Kontrol Perulangan Bersarang (Nested Loop)         | [`05_nested_loop_and_matrix_simulation`](./05_nested_loop_and_matrix_simulation) | ✅ Selesai |
-|  **M6**   | Studi Kasus Perulangan & Simulasi Game                      | [`06_loop_case_studies_and_game`](./06_loop_case_studies_and_game)               | ✅ Selesai |
-|  **M8**   | Algoritma Pencarian & Pengurutan Data (Searching & Sorting) | [`08_student_score_sorter_and_searcher`](./08_student_score_sorter_and_searcher) | ✅ Selesai |
+| Pertemuan | Topik Materi                                                | Nama Modul / Folder                                                                          |       Status        |
+| :-------: | :---------------------------------------------------------- | :------------------------------------------------------------------------------------------- | :-----------------: |
+|  **M1**   | Pengenalan Python & Environment Setup                       | [`01_my_cli_dashboard`](./01_my_cli_dashboard)                                               |     ✅ Selesai      |
+|  **M2**   | Variabel, Tipe Data, Input & Output                         | [`02_user_profile_calculator`](./02_user_profile_calculator)                                 |     ✅ Selesai      |
+|  **M3**   | Percabangan, Pengulangan & Pemrosesan Data (JSON)           | [`03_simple_banking_system`](./03_simple_banking_system)                                     |     ✅ Selesai      |
+|  **M4**   | Struktur Kontrol Perulangan (For & While Loop)              | [`04_looping_and_login_simulation`](./04_looping_and_login_simulation)                       |     ✅ Selesai      |
+|  **M5**   | Struktur Kontrol Perulangan Bersarang (Nested Loop)         | [`05_nested_loop_and_matrix_simulation`](./05_nested_loop_and_matrix_simulation)             |     ✅ Selesai      |
+|  **M6**   | Studi Kasus Perulangan & Simulasi Game                      | [`06_loop_case_studies_and_game`](./06_loop_case_studies_and_game)                           |     ✅ Selesai      |
+|  **M8**   | Algoritma Pencarian & Pengurutan Data (Searching & Sorting) | [`08_student_score_sorter_and_searcher`](./08_student_score_sorter_and_searcher)             |     ✅ Selesai      |
+|  **M10**  | Fungsi & Modularisasi (Modules & Scope)                     | [`10_modular_geometry_and_utility_calculator`](./10_modular_geometry_and_utility_calculator) | 🔄 Dalam Pengerjaan |
 
 ---
 
