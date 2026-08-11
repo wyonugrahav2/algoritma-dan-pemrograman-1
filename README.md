@@ -8,8 +8,6 @@ Repositori ini disusun secara modular yang mencakup setiap materi pertemuan kuli
 
 ---
 
-## 📂 Struktur Repositori & Progress Pertemuan
-
 | Pertemuan | Topik Materi                                                | Nama Modul / Folder                                                                          |     Status     |
 | :-------: | :---------------------------------------------------------- | :------------------------------------------------------------------------------------------- | :------------: |
 |  **M1**   | Pengenalan Python & Environment Setup                       | [`01_my_cli_dashboard`](./01_my_cli_dashboard)                                               |   ✅ Selesai   |
@@ -20,7 +18,8 @@ Repositori ini disusun secara modular yang mencakup setiap materi pertemuan kuli
 |  **M6**   | Studi Kasus Perulangan & Simulasi Game                      | [`06_loop_case_studies_and_game`](./06_loop_case_studies_and_game)                           |   ✅ Selesai   |
 |  **M8**   | Algoritma Pencarian & Pengurutan Data (Searching & Sorting) | [`08_student_score_sorter_and_searcher`](./08_student_score_sorter_and_searcher)             |   ✅ Selesai   |
 |  **M10**  | Fungsi & Modularisasi (Modules & Scope)                     | [`10_modular_geometry_and_utility_calculator`](./10_modular_geometry_and_utility_calculator) |   ✅ Selesai   |
-|  **M11**  | File I/O & Demo Praktikum[cite: 1]                          | [`11_persistent_activity_logger`](./11_persistent_activity_logger)                           | ⏳ On Progress |
+|  **M11**  | File I/O & Demo Praktikum                                   | [`11_persistent_activity_logger`](./11_persistent_activity_logger)                           |   ✅ Selesai   |
+|  **M12**  | Arsitektur CLI & Desain Modular                             | [`12_phonebook_and_contact_manager`](./12_phonebook_and_contact_manager)                     | ⏳ On Progress |
 
 ---
 
